@@ -1,3 +1,14 @@
+# this is my final project based on Nankai undergraduate 3d renderer system
+my contribution is that I implemented the photon map shader based on the simple path tracing method in this system.
+And to be specific, my contribution are:
+- new Photon class and class funtions
+- Photon map class and class funtions
+- KD-tree used to facilitate the mapping speed, and the final rendering time ruduced to 10% of the original time.
+- Coloring for the photon map.
+-----
+And contents below are the instructions of the origigal rendering system.
+It inclusdes all the configuration you need to run this code.
+
 服务于本科教学的三维渲染系统
 ---
 
